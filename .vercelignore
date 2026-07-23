@@ -1,0 +1,8 @@
+# Fichiers non utilisés par le site — exclus du déploiement
+images/originaux
+images/LISEZ-MOI.txt
+video/LISEZ-MOI.txt
+logo.png
+logo.svg
+logo-mark.png
+.claude
